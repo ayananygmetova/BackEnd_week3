@@ -8,4 +8,5 @@ object Main extends App{
   }
   val list= List(1,6,2,6,9,3,10,8)
   println(find(list, 6))
+  print()
 }
